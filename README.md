@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cloud Computing and DevOps
 
 This repository contains my Cloud Computing and DevOps internship work.
@@ -26,3 +27,6 @@ This repository contains my Cloud Computing and DevOps internship work.
 
 ## Author
 Abhishek Kumar
+=======
+# DevOps Project
+>>>>>>> d62622f (Initial project setup)
