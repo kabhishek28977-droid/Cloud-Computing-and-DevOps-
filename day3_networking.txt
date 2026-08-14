@@ -1,0 +1,5 @@
+Day 3 - Networking Fundamentals
+Ping: Successful
+DNS Resolution: Successful
+HTTP/HTTPS Curl: Successful
+IP Address Inspection: Completed

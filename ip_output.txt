@@ -1,0 +1,1 @@
+100.74.63.232/30 dev rmnet_data1 proto kernel scope link src 100.74.63.234 
