@@ -1,20 +1,14 @@
 #!/bin/bash
 
-mkdir -p devops-project/{scripts,docs,src}
+set -e
 
-echo "# DevOps Project" > devops-project/README.md
+mkdir -p scripts docs src
 
-cat > devops-project/.gitignore <<EOF
+echo "# DevOps Project" > README.md
+
+cat > .gitignore <<'GITIGNORE'
 *.log
 .env
-EOF
-
-cd devops-project
-
-git init
-
-git add README.md .gitignore
-
-git commit -m "Initial project setup"
+GITIGNORE
 
 echo "DevOps project setup completed successfully!"
